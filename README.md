@@ -48,7 +48,7 @@ Sets the overdraft limit to the stated amount
 
 4. closeAccount
  
-<br/>
+
 ## Libraries
 
 - random
