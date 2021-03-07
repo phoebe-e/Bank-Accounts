@@ -4,7 +4,7 @@
 
 Python program using OOP to implement two classes of bank account: BasicAccount and PremiumAccount.
 
-
+<br/>
 The basic account has the following methods:
 
 1. deposit
@@ -36,8 +36,7 @@ To be called before deleting of the object instance. Returns any balance to the 
 Returns False if the customer is in debt to the bank.
 N.B. shouldn't actually delete the account instance; this function simply does the relevant house keeping.
 
-
-
+<br/>
 The premium account has the following additional/amended methods:
 
 1. setOverdraftLimit
@@ -49,7 +48,7 @@ Sets the overdraft limit to the stated amount
 
 4. closeAccount
  
-
+<br/>
 ## Libraries
 
 - random
