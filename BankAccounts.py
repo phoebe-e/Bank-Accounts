@@ -1,6 +1,3 @@
-#Phoebe Edwards (200786023)
-#COMP517 Assignment 4
-
 
 #LIBRARIES
 
