@@ -4,6 +4,7 @@
 
 Python program using OOP to implement two classes of bank account: BasicAccount and PremiumAccount.
 
+
 The basic account has the following methods:
 
 1. deposit
@@ -51,5 +52,7 @@ Sets the overdraft limit to the stated amount
 
 ## Libraries
 
-random
-datetime
+- random
+- datetime
+
+
